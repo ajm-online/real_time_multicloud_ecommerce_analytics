@@ -1,0 +1,6 @@
+pyspark==3.3.2
+streamlit
+kafka-python
+pandas
+apache-airflow==2.6.3
+flake8
